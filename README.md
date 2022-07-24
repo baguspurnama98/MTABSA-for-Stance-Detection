@@ -1,5 +1,5 @@
 # Multi-task-Aspect-based-Sentiment-for-Stance-Detection
-This repository for Stance Detection on Tweets with Multi-task Aspect-based Sentiment: A Case  Study of COVID-19 Vaccination
+This repository for Stance Detection on Tweets with Multi-task Aspect-based Sentiment: A Case  Study of COVID-19 Vaccination journal. This journal will be published in International Journal of Intelligent Engineering and Systems (IJIES) (Q3)
 
 
 Public opinion analyses on Twitter conducted based on sentiment analysis cannot identify the author’s stance 
